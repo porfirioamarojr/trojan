@@ -17,7 +17,9 @@
 
 ![modelo conceitual](https://i.pinimg.com/564x/c1/af/93/c1af93176c451d06d8157e556a5222bb.jpg)
 
-#Dicionário de Dados
+## Descrição das Entidades do Modelo Conceitual
+
+# Dicionário de Dados
 
 ### Tabela 1
 | Tabela |	Relacionamento |	Nome do Relacionamento |	Descrição |
