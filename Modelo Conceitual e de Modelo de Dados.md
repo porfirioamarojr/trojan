@@ -18,8 +18,37 @@
 ![modelo conceitual](https://i.pinimg.com/564x/c1/af/93/c1af93176c451d06d8157e556a5222bb.jpg)
 
 ## Descrição das Entidades do Modelo Conceitual
-### ...
 
+### Usuário:
+  Usuário pode ser um aluno.
+  Usuário pode ser um professor.
+  Usuário pode ser um Administrador
+  Usuário tem Nome, Id, Email, Universidade, Senha, Username, Sexo e Nascimento
+
+### Professor:
+  Professor é um usuário que tem relação com turma.
+  O Professor cria turma.
+  O professor tem relação com Turma.
+  Professor cria turma.
+
+### Aluno:
+  Aluno é um usuário.
+  Aluno pode ou não esta em uma turma.
+  Aluno tem pontuação.
+
+### Administrador:
+  Administrador é um usuário.
+  Administrador remove um usuário.
+  Administrador adiciona questão.
+  Administrador Adiciona usuário.
+  Administrador remove questão.
+
+### Turma:
+  Turma tem Quantidade de Membros e id.
+
+### Questão:
+  QUestão tem título, subtítulo, id, alternativa 1, alternativa 2, alternativa 3, alternativa 4, alternativa 5
+  
 # Modelo de Dados
   Descrever o paradigma utilizado para a representação dos dados.
   
