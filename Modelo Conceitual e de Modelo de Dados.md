@@ -48,3 +48,6 @@
 
 ### Tabela 3
 
+|Tabela	| Nome da Coluna	| Tipo de Dados	| Comprimento	| Restrições | Valor Padrão	| Descrição|
+|--|--|--|--|--|--|--|
+|Aluno	|pontuação	|double	|8 bytes	|N/D	|0	|Total de pontos atingidos pelo usuário respondendo questões|
