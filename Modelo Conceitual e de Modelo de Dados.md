@@ -12,3 +12,22 @@
 | Data | Versão | Descrição | Autor |
 | ---- |---- | ---- | ---- |
 |29/02/2020| 1.0 | Inicio da documentação | José Erildo |
+
+#Modelo Coneitual
+
+#Dicionário de Dados
+
+| Tabela |	Relacionamento |	Nome do Relacionamento |	Descrição |
+|--|--|--|--|
+| Usuário|	Aluno | é |	Tabela correspondente aos perfis dos usuários |
+|| Administrador|	é   
+||	Professor|	é	
+|Aluno	|Usuário	|é	|Tabela correspondente a interação com o perfil aluno|
+||	Professor|	adiciona/remove|
+|Administrador|	Usuário|	é	|Administrador  interage com os perfis usuário e questão|
+|| Usuário	| remove	|
+|| Questão	| adiciona |
+|Professor	|Aluno	|adiciona/remove	|Professor interage com aluno e turma
+||	Turma	|cria|	
+|Turma	|Professor	|cria	|Tabela de dados da turma
+|Questão	|Administrador		|Tabela correspondente aos dados de uma questão
