@@ -7,3 +7,8 @@
 # Descrição
 ### O referido documento representa de maneira abstrata as interações, relacionamentos e atribuições entre os artefatos que compõeem o sistema.
 
+# Histórico de Revisões
+
+| Data | Versão | Descrição | Autor |
+| ---- |---- | ---- | ---- |
+|29/02/2020| 1.0 | Inicio da documentação | José Erildo |
