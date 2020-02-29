@@ -70,3 +70,9 @@
 ||alternativa3	| text	| Sem límíte específico	| NOT NULL	| N/D	|Conteúdo da alternativa 3
 ||alternativa4	| text	| Sem límíte específico	| NOT NULL	| N/D	|Conteúdo da alternativa 4
 
+### Tabela 6
+
+|Tabela	| Nome da Coluna	| Tipo de Dados	| Comprimento	| Restrições | Valor Padrão	| Descrição|
+|--|--|--|--|--|--|--|
+| Turma	| id	| int	| 4 bytes	| PK, NOT NULL, AUTO_INCREMENT	| N/D	| Identificador da Turma|
+||	quantMembros	|int	| 4 bytes	| NOT NULL	|0	| Quantidade de membros do grupo da turma
