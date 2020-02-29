@@ -14,6 +14,7 @@
 |29/02/2020| 1.0 | Inicio da documentação | José Erildo |
 |29/02/2020| 1.1 | Descrição de entidades e Modelo de dados | Amaro Júnior |
 |29/02/2020| 1.2 | Descrição de entidades e Modelo de dados | Amaro Júnior |
+|29/02/2020| 1.3 | Organização do documento | Amaro Júnior |
 | ---- |---- | ---- | ---- |
 
 # Modelo Coneitual
@@ -23,27 +24,27 @@
 ## Descrição das Entidades do Modelo Conceitual
 
 ### Usuário:
-  Usuário pode ser um aluno.
-  Usuário pode ser um professor.
-  Usuário pode ser um Administrador
+  Usuário pode ser um aluno.<br/>
+  Usuário pode ser um professor.<br/>
+  Usuário pode ser um Administrador.<br/>
   Usuário tem Nome, Id, Email, Universidade, Senha, Username, Sexo e Nascimento.
 
 ### Professor:
-  Professor é um usuário que tem relação com turma.
-  O Professor cria turma.
-  O professor tem relação com Turma.
+  Professor é um usuário que tem relação com turma.<br/>
+  O Professor cria turma.<br/>
+  O professor tem relação com Turma.<br/>
   Professor cria turma.
 
 ### Aluno:
-  Aluno é um usuário.
-  Aluno pode ou não esta em uma turma.
+  Aluno é um usuário.<br/>
+  Aluno pode ou não esta em uma turma.<br/>
   Aluno tem pontuação.
 
 ### Administrador:
-  Administrador é um usuário.
-  Administrador remove um usuário.
-  Administrador adiciona questão.
-  Administrador Adiciona usuário.
+  Administrador é um usuário.<br/>
+  Administrador remove um usuário.<br/>
+  Administrador adiciona questão.<br/>
+  Administrador Adiciona usuário.<br/>
   Administrador remove questão.
 
 ### Turma:
