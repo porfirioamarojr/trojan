@@ -82,5 +82,5 @@ Data | Risco | Prioridade | Responsável | Status | Providência/Solução
 
 
 
-[link drive](https://docs.google.com/document/d/1LRq87qfWPJkKeYejZEAmTLUfaU4A5eqDhHBc5BNnLJE/edit#heading=h.xsipevjb5rla)
+[link drive](https://docs.google.com/document/d/1LRq87qfWPJkKeYejZEAmTLUfaU4A5eqDhHBc5BNnLJE/edit#heading=h.xsipevjb5rla) | 
 [link github](https://github.com/AmaroJunior98/trojan.git) 
