@@ -58,3 +58,15 @@
 |--|--|--|--|--|--|--|
 | Professor	| pontuação	| double	| 8 bytes	| N/D	| 0	| Total de pontos atingidos pelo usuário respondendo questões|
 
+### Tabela 5
+
+|Tabela	| Nome da Coluna	| Tipo de Dados	| Comprimento	| Restrições | Valor Padrão	| Descrição|
+|--|--|--|--|--|--|--|
+| Questão	| id	| int	| 4 bytes	| PK, NOT NULL, AUTO_INCREMENT	| N/D	| Identificador da questão |
+|| título	| text	| Sem límíte específico	| NOT NULL	|N/D	|Título da questão
+||subtítulo	|text	|Sem límíte específico	| N/D	| N/D	| Subtítulo da questão
+||alternativa1	| text	| Sem límíte específico	| NOT NULL	| N/D	|Conteúdo da alternativa 1
+||alternativa2	| text	| Sem límíte específico	| NOT NULL	| N/D	|Conteúdo da alternativa 2
+||alternativa3	| text	| Sem límíte específico	| NOT NULL	| N/D	|Conteúdo da alternativa 3
+||alternativa4	| text	| Sem límíte específico	| NOT NULL	| N/D	|Conteúdo da alternativa 4
+
