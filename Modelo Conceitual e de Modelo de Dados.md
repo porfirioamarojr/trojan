@@ -12,6 +12,9 @@
 | Data | Versão | Descrição | Autor |
 | ---- |---- | ---- | ---- |
 |29/02/2020| 1.0 | Inicio da documentação | José Erildo |
+| ---- |---- | ---- | ---- |
+|29/02/2020| 1.1 | Descrição de entidades e Modelo de dados | Amaro Júnior |
+| ---- |---- | ---- | ---- |
 
 # Modelo Coneitual
 
@@ -23,7 +26,7 @@
   Usuário pode ser um aluno.
   Usuário pode ser um professor.
   Usuário pode ser um Administrador
-  Usuário tem Nome, Id, Email, Universidade, Senha, Username, Sexo e Nascimento
+  Usuário tem Nome, Id, Email, Universidade, Senha, Username, Sexo e Nascimento.
 
 ### Professor:
   Professor é um usuário que tem relação com turma.
@@ -47,10 +50,10 @@
   Turma tem Quantidade de Membros e id.
 
 ### Questão:
-  QUestão tem título, subtítulo, id, alternativa 1, alternativa 2, alternativa 3, alternativa 4, alternativa 5
+  QUestão tem título, subtítulo, id, alternativa 1, alternativa 2, alternativa 3, alternativa 4, alternativa 5.
   
 # Modelo de Dados
-  Descrever o paradigma utilizado para a representação dos dados.
+  O paradigma de modelo de dados utilizado no projeto é o conceitual onde demonstra todas as relações entre as entidades, suas especializações, relacionamentos, auto-relações e atributos.
   
 # Dicionário de Dados
 
