@@ -20,7 +20,7 @@ José Erildo | Analista | joseerildo007@gmail.com
 ### Matriz de Competências
 
 Equipe | Competências
---------- | ------ 
+--------- | --------
 Porfirio Amaro | HTML,CSS,Javascript, C, UML, Arduino, Scrath;
 Jhonatas Laurentino | HTML, CSS, javascript, Bootstrap, Java, C, PHP, Marketing, Gerência de Projetos, entre outras habilidades...
 José Erildo | HTML, CSS, Javascript, C, Arduino;
@@ -73,6 +73,7 @@ Preencher na tabela os riscos identificados para o início do projeto. Essa tabe
 
 
 Data | Risco | Prioridade | Responsável | Status | Providência/Solução
+--------- | ------ |  -------- | --------- |  --------- | ------
 28/02/2020 | Não entregar o sistema no prazo | Alta | Todos |Vigente | Manter-se fiel aos prazos do cronograma.
 28/02/2020 | Expor os dados do usuário | Alta | Desenvolvedor | Vigente | Fazer verificações de segurança quanto ao acesso de terceiros ao banco de dados
 28/02/2020 |Erros de funcionalidade no sistema | Alta | Desenvolvedor | Vigente | Aplicar vários testes em todo o site
