@@ -12,8 +12,8 @@
 | Data | Versão | Descrição | Autor |
 | ---- |---- | ---- | ---- |
 |29/02/2020| 1.0 | Inicio da documentação | José Erildo |
-| ---- |---- | ---- | ---- |
 |29/02/2020| 1.1 | Descrição de entidades e Modelo de dados | Amaro Júnior |
+|29/02/2020| 1.2 | Descrição de entidades e Modelo de dados | Amaro Júnior |
 | ---- |---- | ---- | ---- |
 
 # Modelo Coneitual
@@ -54,6 +54,7 @@
   
 # Modelo de Dados
   O paradigma de modelo de dados utilizado no projeto é o conceitual onde demonstra todas as relações entre as entidades, suas especializações, relacionamentos, auto-relações e atributos.
+  Em Dicionário de Dados é defindo tabelas, nome da coluna, tipo do dado, comprimento, restrições,valor padrão e descrição.
   
 # Dicionário de Dados
 
