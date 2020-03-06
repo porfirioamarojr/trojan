@@ -34,20 +34,21 @@ O  sistema Trojan tem como propósito incentivar alunos a testarem seus conhecim
 Correspondente à usuários:
         
         RF01 - CRUD perfis usuário (professor, aluno e administrador)
-    
-    RF02 - Ver histórico de questões - Deve conter o nome da questão, data e hora da tentativa;
+        RF02 - Ver histórico de questões - Deve conter o nome da questão, data e hora da tentativa;
 
 ------------------------------------------------------------------
 Correspondente à administradorRF03 - CRUD questão
     
 --------------------------------------------------------------------
 Correspondente ao perfil professor
+    
     RF04 - Crud Turma
     RF05 - Crud Aluno
     RF06 - Selecionar questões para a turma
    
 ------------------------------------------------------------------
 Correspondente às questões:
+    
     RF07 - CRUD questão
     RF08 - 2 Sessões de questões divididas entre: selecionar categoria e nivel da questão;
     RF09 - A sessão anterior correspondente a nivelamente deve conter uma opção de níveis aleatórios;
@@ -56,6 +57,7 @@ Correspondente às questões:
     
 ------------------------------------------------------------------
 Correspondente às estatísticas:
+    
     RF12 - Ver ranking geral
     RF13 - Ver ranking por categoria
     RF14 - Progresso de questões referentes a cada categoria - Ex de progresso:  45 de 115;
@@ -71,12 +73,14 @@ Correspondente às estatísticas:
     
 --------------------------------------------------------------------
 Correspondente a outras sessões
+    
     RF24 - Sessão de perguntas frequentes
     RF25 - Sessão sobre o site
     RF26 - Sessão desafio
     
 --------------------------------------------------------------------
 Correspondente a sessão desafio
+    
     RF27 - Uma sessão destinada a questões lançadas em períodos específicos. Tais perguntas são elaboradas por professores de X área e somente o administrador tem permissão para publicá-las.
     RF28 - A(s) questão(ões)devem conter um período global para ser respondida
     
