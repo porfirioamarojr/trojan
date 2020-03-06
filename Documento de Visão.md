@@ -9,8 +9,6 @@ Data | Versão | Descrição | Autor
 28/02/2020   | 1.0 | Documento inicial | José Erildo Medeiros Ramos
 28/02/2020   | 1.1 | Documento inicial | Jhonatas I. C. Laurentino
 06/03/2020 | 1.2 | Incremento de Requisitos | José Erildo M. Ramos
-06/03/2020 | 1.2.1 | Atualização, organização dos Requisitos| JJhonatas I. C. Laurentino
-
 
 ## Equipe e Definição de Papéis
     
@@ -39,7 +37,9 @@ Correspondente à usuários:
         RF02 - Ver histórico de questões - Deve conter o nome da questão, data e hora da tentativa;
 
 ------------------------------------------------------------------
-Correspondente à administradorRF03 - CRUD questão
+Correspondente à administrador
+    
+    RF03 - CRUD questão
     
 --------------------------------------------------------------------
 Correspondente ao perfil professor
