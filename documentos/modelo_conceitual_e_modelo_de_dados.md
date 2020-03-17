@@ -15,11 +15,12 @@
 |29/02/2020| 1.1 | Descrição de entidades e Modelo de dados | Amaro Júnior |
 |29/02/2020| 1.2 | Descrição de entidades e Modelo de dados | Amaro Júnior |
 |29/02/2020| 1.3 | Organização do documento | Amaro Júnior |
+|17/03/2020| 1.4| Substituindo Modelo Conceitual por Diagrama de Classes | José Erildo 
 | ---- |---- | ---- | ---- |
 
 # Modelo Coneitual
 
-![modelo conceitual](https://i.pinimg.com/564x/c1/af/93/c1af93176c451d06d8157e556a5222bb.jpg)
+![Diagrama de Classes](https://i.pinimg.com/564x/49/cd/67/49cd67c78991f57f6edafaa832bcfefc.jpg)
 
 ## Descrição das Entidades do Modelo Conceitual
 
