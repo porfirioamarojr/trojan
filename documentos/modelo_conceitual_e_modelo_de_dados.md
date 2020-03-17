@@ -20,21 +20,19 @@
 
 # Modelo Coneitual
 
-![Diagrama de Classes](https://i.pinimg.com/564x/49/cd/67/49cd67c78991f57f6edafaa832bcfefc.jpg)
+![Diagrama de Classes](https://i.pinimg.com/564x/2a/14/e2/2a14e2b76daa710df8de0a6d01d1ecb0.jpg)
 
-## Descrição das Entidades do Modelo Conceitual
+## Descrição das Entidades do Diagrama de Classes
 
 ### Usuário:
   Usuário pode ser um aluno.<br/>
   Usuário pode ser um professor.<br/>
   Usuário pode ser um Administrador.<br/>
-  Usuário tem Nome, Id, Email, Universidade, Senha, Username, Sexo e Nascimento.
+  Usuário tem Nome, Id, Email, Universidade, Senha, Username, Sexo,  Nascimento, CPF, Celular.
 
 ### Professor:
   Professor é um usuário que tem relação com turma.<br/>
   O Professor cria turma.<br/>
-  O professor tem relação com Turma.<br/>
-  Professor cria turma.
 
 ### Aluno:
   Aluno é um usuário.<br/>
@@ -43,10 +41,7 @@
 
 ### Administrador:
   Administrador é um usuário.<br/>
-  Administrador remove um usuário.<br/>
-  Administrador adiciona questão.<br/>
-  Administrador Adiciona usuário.<br/>
-  Administrador remove questão.
+  Administrador adiciona, remove e edita uma questão.
 
 ### Turma:
   Turma tem Quantidade de Membros e id.
