@@ -5,13 +5,13 @@
 #### Histórico de revisões
 
     | Data | Versão | Descrição | Autor | 
-    | ---- | ---- | ---- | ---- |
+    | ------ | ----- | ------------ | ------------ |
     18/03/2019 | 1.0 | Documento inicial | Porfirio Amaro De Araújo Júnior
 
 ### Equipe
     
     | Participante | Papel | E-mail |
-    | ---- | ---- | ---- |
+    | ----------- | ------------ | ------------ |
     Jhonatas Israel da Costa Laurentino | Gerente/Desenvolvedor/Analista/Testador | costajhonatas9@gmail.com
     José Erildo Medeiros Ramos | Desenvolvedor/Analista/Testador | joseerildo007@gmail.com
     Porfirio Amaro de Araújo Júnior | Gerente/Desenvolvedor/Testador | porfirioamarojr@gmail.com
@@ -31,7 +31,7 @@
 ### Cronograma de marcos
     
     | Marcos | Descrição |
-    | ---- | ---- |
+    | ------------- | -------------------------------------------- |
     Version 1.0 | Criação de base do Projeto
     Version 2.0 | Correção de erros da primeira Iteração, definição de partes que os mebros vão atualizar nessa iteração e contrução geral de projeto.
     Version 2.1 | Criação de mais documentação e coreção.
@@ -45,9 +45,9 @@
 ### Riscos identificados
     
     | Riscos | Consequência | providências |
-    | ---- | ---- | ---- |
+    | ------------- | --------------- | ------ |
     Falta de Tempo | Atraso do prazo de entrega | Trabalhar mais horas, ajuda/professor
-    
+
     
 Autorizo a abertura do projeto conforme as informações acima descritas.
 
