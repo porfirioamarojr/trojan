@@ -30,12 +30,12 @@
 
 ### Cronograma de marcos
     
-    | Marcos | Descrição |
-    |---|---|
-    | Version 1.0 | Criação de base do Projeto |
-    | Version 2.0 | Correção de erros da primeira Iteração, definição de partes que os mebros vão atualizar nessa iteração, e contrução geral de projeto. |
-    | Version 2.1 | Criação de mais documentação e coreção. |
-    | Version 2.2 | ------ |
+     Marcos | Descrição 
+    --- | ---
+     Version 1.0 | Criação de base do Projeto 
+     Version 2.0 | Correção de erros da primeira Iteração, definição de partes que os mebros vão atualizar nessa iteração, e contrução geral de projeto. 
+     Version 2.1 | Criação de mais documentação e coreção. 
+     Version 2.2 | ------ 
 | 
 ### Partes interessadas
     
