@@ -5,7 +5,7 @@
 #### Histórico de revisões
 
     | Data | Versão | Descrição | Autor | 
-    |---|---|---|---|
+    |:----------:|:-------------:|:------:|:-------------:|
     18/03/2019 | 1.0 | Documento inicial | Porfirio Amaro De Araújo Júnior
 
 ### Equipe
